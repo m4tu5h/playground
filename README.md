@@ -1,3 +1,3 @@
 # playground
 
-1st commit tryout
+this is a github playground 
